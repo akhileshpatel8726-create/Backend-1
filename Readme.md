@@ -1,4 +1,4 @@
-#chai our backend series
+ Backend learning series
 
 
-this is a video seres on backend with javascript
+this is a video series on backend with jaavascript
